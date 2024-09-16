@@ -1,3 +1,4 @@
 .env
 tests/budget.test.js
 tests/transaction.test.js
+node_modules
