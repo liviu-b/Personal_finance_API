@@ -1,4 +1,4 @@
-.Personal Finance API
+Personal Finance API
 Description
 The Personal Finance API is a RESTful API designed to help users manage their personal finances effectively. This API allows users to track their expenses, income, and set budgets for different categories. It provides essential endpoints for managing financial transactions, retrieving transaction histories, setting budget limits, and generating reports based on user data.
 
